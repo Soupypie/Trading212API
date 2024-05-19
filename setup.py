@@ -24,3 +24,5 @@ setuptools.setup(
     ],
     python_requires='>=3.9',
 )
+
+input()
