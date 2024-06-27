@@ -2,3 +2,4 @@ pytz
 selenium
 requests
 rich
+setuptools
